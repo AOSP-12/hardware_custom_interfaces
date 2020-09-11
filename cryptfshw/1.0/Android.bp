@@ -25,7 +25,6 @@ cc_defaults {
     shared_libs: [
         "libbase",
         "libhidlbase",
-        "libhidltransport",
         "libutils",
         "vendor.qti.hardware.cryptfshw@1.0",
     ],
